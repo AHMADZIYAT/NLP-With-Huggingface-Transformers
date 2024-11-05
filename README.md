@@ -52,19 +52,34 @@ Dengan pendekatan ini, NLP tidak hanya memahami konteks, tetapi juga membantu me
 
 ---
 
-**zero-short-classcification**
+**Zero-short-classcification**
+
 Zero-shot classification adalah teknik yang luar biasa dalam Natural Language Processing (NLP) karena memungkinkan kita mengklasifikasikan teks tanpa perlu data pelatihan spesifik untuk setiap label atau kategori. Dengan kemampuan zero-shot, model dapat "memahami" label baru yang sebelumnya tidak pernah diajarkan padanya, cukup dengan mengandalkan pengetahuan yang sudah ada dari pelatihan dasar. Ini sangat relevan untuk aplikasi yang memerlukan klasifikasi cepat tanpa proses pelatihan yang memakan waktu, seperti analisis sentimen cepat, deteksi emosi, atau bahkan klasifikasi konteks kalimat.
+
 **text generation**
+
 Text generation, atau generasi teks, adalah teknik NLP yang memungkinkan model untuk menulis atau melanjutkan teks berdasarkan input tertentu. Teknik ini menjadi sangat populer berkat kemampuan model bahasa besar (seperti GPT, BERT, dan model lain dari keluarga Transformer) yang dilatih untuk memprediksi dan menghasilkan kata-kata, kalimat, atau paragraf yang kontekstual dan koheren. Penggunaan text generation sangat luas, mulai dari chatbot, penulisan artikel, hingga membantu dalam kreatif writing.
+
 **fill-mask**
+
 Fill-mask adalah teknik NLP yang memungkinkan model melengkapi kata atau frasa yang hilang di dalam kalimat dengan memanfaatkan konteks di sekitarnya. Dalam model-model besar seperti BERT dan variannya, teknik ini dapat memberikan prediksi yang cukup akurat untuk kata yang hilang atau di-"mask", sehingga sangat berguna dalam banyak aplikasi seperti otomatisasi penyusunan teks, koreksi tata bahasa, atau pemahaman konteks.
+
 **ner**
+
 Named Entity Recognition (NER) adalah teknik NLP yang berfungsi untuk mengidentifikasi dan mengklasifikasikan entitas penting dalam sebuah teks, seperti nama orang, organisasi, lokasi, tanggal, dan entitas lainnya. NER sering digunakan dalam pemrosesan data teks yang memerlukan pemahaman tentang siapa atau apa yang sedang dibahas, membantu dalam mengekstrak informasi penting dari teks secara otomatis.
+
 **Question-Answering (QA)**
+
 Question-Answering (QA) adalah teknik dalam Natural Language Processing (NLP) yang memungkinkan model untuk memahami teks dan menjawab pertanyaan yang diajukan pengguna berdasarkan teks atau konteks yang diberikan. QA digunakan dalam berbagai aplikasi, dari chatbot dan asisten virtual hingga penelusuran informasi medis dan hukum. Kemampuan QA untuk mengekstrak jawaban secara langsung dari teks menjadikannya alat yang sangat berguna dalam lingkungan yang membutuhkan akses cepat ke informasi spesifik.
-**sentiment-analysis**
+
+**Sentiment-analysis**
+
 Sentiment analysis adalah teknik dalam Natural Language Processing (NLP) yang digunakan untuk mengidentifikasi dan mengklasifikasikan emosi atau opini yang terdapat dalam sebuah teks. Metode ini umumnya digunakan untuk menentukan apakah sentimen suatu teks bersifat positif, negatif, atau netral. Dengan semakin banyaknya data yang dihasilkan di dunia digital, dari media sosial hingga ulasan produk, sentiment analysis menjadi alat yang sangat penting untuk memahami pandangan dan perasaan publik.
-**summarization**
+
+**Summarization**
+
 Summarization adalah teknik dalam Natural Language Processing (NLP) yang digunakan untuk menghasilkan ringkasan dari teks panjang, dengan tujuan menyampaikan informasi utama tanpa kehilangan esensi dan konteks. Teknik ini sangat penting dalam dunia yang dipenuhi dengan informasi, di mana individu sering kali dihadapkan pada volume data yang besar dan membutuhkan cara efisien untuk memahami konten tanpa harus membaca semuanya.
-**translation**
+
+**Translation**
+
 Translation dalam konteks Natural Language Processing (NLP) adalah proses menerjemahkan teks dari satu bahasa ke bahasa lain dengan tujuan mempertahankan makna dan nuansa asli. Dalam dunia yang semakin terhubung secara global, kemampuan untuk menerjemahkan bahasa dengan akurat dan efisien menjadi sang
